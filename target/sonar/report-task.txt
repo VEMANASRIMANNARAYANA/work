@@ -1,0 +1,6 @@
+projectKey=Demo
+serverUrl=http://localhost:9099
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9099/dashboard?id=Demo
+ceTaskId=AYpF2IbZT_ZY8ZTp0iSo
+ceTaskUrl=http://localhost:9099/api/ce/task?id=AYpF2IbZT_ZY8ZTp0iSo
